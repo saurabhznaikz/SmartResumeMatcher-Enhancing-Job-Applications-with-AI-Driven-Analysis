@@ -1,7 +1,7 @@
 # SmartResumeMatcher-Enhancing-Job-Applications-with-AI-Driven-Analysis
 This system helps user to understand what things needs to be modified in their resume in order to match it with the JD.
 
-![SmartResumeMatcher](https://github.com/saurabhznaikz/Automated_MCQ_generator/blob/main/mcq%20generator.gif)
+![SmartResumeMatcher](https://github.com/saurabhznaikz/SmartResumeMatcher-Enhancing-Job-Applications-with-AI-Driven-Analysis/blob/main/resume%20matcher.gif)
 
 ## Installation
 Create virtual environment for python 3.10
